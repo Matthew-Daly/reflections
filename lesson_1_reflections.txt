@@ -1,0 +1,54 @@
+*How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+While using diff helped me see the difference in the two codes, what was really helpfulwas having to learn comand line just to get Git installed in the first 
+place. 
+
+I am starting to relize that every new challenge holds amazing potentional. 
+
+Skill stacks on skill. 
+
+This is not a lunar journey, it is circular, seemingly random, but creating an amazing wholeness.  
+
+Exciting stuff.
+
+
+*How could having easy access to the entire history of a file
+make you a more efficient programmer in the long term?
+
+Tracking changes allows you to track mistakes, wrong turns, or on 
+the possitive side the moment when something became special.
+
+Those that do not know their history...and all that.
+
+
+*What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git,
+vs having versions automatically saved, like Google Docs does?
+
+The coder would have the control to chose logical benchmarkes that would be 
+eaiser to understand then either too many auto saves or to little.
+
+If a problem arose it may be eaiser for them to find zero point of the error.
+
+
+
+*Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+while others, like Google Docs, treat each file separately?
+
+There goals are different. In word documents this files are not necessarily conected, where in codeing things tend 
+intrinsically conected. 
+
+
+*How can you use the commands git log and git diff to view the history of files?
+Well git log lists all of the commits done to the master copy and if I 
+compare two different commits I can see the details of the changes 
+made between the two commits.
+
+*How might using version control make you more confident to make changes that could break something?
+If I know that I can easily go back and check my work I will be less worried about making
+a catastrophic mistake. 
+
+*Now that you have your workspace set up, what do you want to try using Git for?
+A bit frustratd because I was not able to make sublime text my defalt text editor and I spent a good hour on it. 
+So I don't know how I want to use Git because I am finding it difficut.
+Figured it out, still not sure how, but I got it working. Tenacity over comes all!
+

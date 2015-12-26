@@ -1,0 +1,4 @@
+*What happens when you initialize a repository? Why do you need to do it?
+I am creating a place to store the various versions of my code to be
+stored in git and github. This is the entire point of using something
+like git in the first place. 

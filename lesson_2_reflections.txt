@@ -19,3 +19,8 @@ point.
 They would be a great way of working on added features and then adding them to the master
 code when read. That history would allow the coder to know if something went wrong and revert 
 a past state while they figure it out. 
+
+*How do the diagrams help you visualize the branch structure?
+It helped me relize the importance of connectivness, knowing where commits came from and where
+they are going. Also the importance of keeping controls of branches so that changes are
+not lost into empty space.

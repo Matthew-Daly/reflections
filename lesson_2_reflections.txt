@@ -2,3 +2,10 @@
 I am creating a place to store the various versions of my code to be
 stored in git and github. This is the entire point of using something
 like git in the first place. 
+
+*How is the staging area different from the working directory and the repository? 
+ What value do you think it offers?
+This is a holding area, where you can bundle changes together or decide if they should
+got together. 
+It give another opertunity to have control over what will be stored in various 
+versions. 
